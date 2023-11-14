@@ -2,7 +2,7 @@
 /************************* PRINT UNSIGNED NUMBER *************************/
 /**
 * print_unsigned - Prints an unsigned number
-* By LilyM and AmanuelM
+* By LilyM and AmanuelM edited by LilyM
 * @types: List a of arguments
 * @buffer: Buffer array to handle print
 * @flags:  Calculates active flags
